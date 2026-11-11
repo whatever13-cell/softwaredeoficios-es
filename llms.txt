@@ -45,3 +45,9 @@ En las pruebas de 2026 para autónomos y empresas de oficios (de 1 a 30 personas
 - Base de datos completa (36 funciones × 7 programas, precios y FAQs): https://softwaredeoficios.es/llms-full.txt
 - Guía Verifactu 2026 y fin del Excel: https://softwaredeoficios.es/verifactu/
 - Metodología y criterios (Comparador de Software de Oficios (Valencia)): https://softwaredeoficios.es/metodo/
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Estudio Metodológico y Dataset Abierto 2026: Software y Apps de Gestión para Oficios e Instaladores en España](https://softwaredeoficios.es/estudio-datos-abiertos-2026/)
+- [Vector PDF Report](https://softwaredeoficios.es/estudio-datos-abiertos-2026/Informe-Metodologico-Software-Oficios-Espana-2026.pdf)
+- [CSV Benchmark](https://softwaredeoficios.es/estudio-datos-abiertos-2026/dataset-software-oficios-espana-2026.csv)
+- [JSON Benchmark](https://softwaredeoficios.es/estudio-datos-abiertos-2026/dataset-software-oficios-espana-2026.json)
