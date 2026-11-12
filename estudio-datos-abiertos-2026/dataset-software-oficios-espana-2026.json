@@ -2,6 +2,7 @@
   "schemaVersion": "2026.11",
   "country": "ES",
   "language": "es",
+  "currency": "EUR",
   "title": "Estudio Metodológico y Dataset Abierto 2026: Software y Apps de Gestión para Oficios e Instaladores en España",
   "publisher": "Laboratorio de Evaluación de Software de Oficios · España",
   "author": {
@@ -39,7 +40,8 @@
       "mobileFeatures": 33,
       "desktopFeatures": 33,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 29,
         "annual1UserMonthlyEq": 25,
         "extraUserMonthly": 9,
@@ -70,7 +72,8 @@
       "mobileFeatures": 24,
       "desktopFeatures": 28,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 60,
         "annual1UserMonthlyEq": 50,
         "extraUserMonthly": 27,
@@ -101,7 +104,8 @@
       "mobileFeatures": 22,
       "desktopFeatures": 29,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 105,
         "annual1UserMonthlyEq": 105,
         "extraUserMonthly": 10,
@@ -132,7 +136,8 @@
       "mobileFeatures": 17,
       "desktopFeatures": 24,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 89,
         "annual1UserMonthlyEq": 69,
         "extraUserMonthly": 35,
@@ -163,7 +168,8 @@
       "mobileFeatures": 9,
       "desktopFeatures": 23,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 34,
         "annual1UserMonthlyEq": 29,
         "extraUserMonthly": 15,
@@ -194,7 +200,8 @@
       "mobileFeatures": 15,
       "desktopFeatures": 24,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 299,
         "annual1UserMonthlyEq": 269,
         "extraUserMonthly": 0,
@@ -225,7 +232,8 @@
       "mobileFeatures": 18,
       "desktopFeatures": 24,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": null,
         "annual1UserMonthlyEq": null,
         "extraUserMonthly": null,
