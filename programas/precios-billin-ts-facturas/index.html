@@ -1347,15 +1347,15 @@ html[data-marca] :is(.sx-pan-in,.sx-pie-in){max-width:1248px!important;padding-l
 <section class="sec sec-papel" id="calculadora"><div class="ancho ancho-s"><p class="eti">Calculadora</p><h2>¿Cuánto pagarías tú por Billin (TS Facturas)?</h2>
 <p class="lead">Marca cuántos clientes tienes y cuántos sois: te dice el plan de TS Facturas que te toca.</p><div class="pt-calc" id="pc"><div class="gr">
 <div><label for="pc-u">¿Cuántos vais a usarlo?</label><input id="pc-u" type="number" min="1" max="60" value="1" inputmode="numeric"></div>
-<div><label for="pc-k">¿Cómo pagas?</label><select id="pc-k"><option value="m" selected>Pago mensual</option><option value="a">Pago anual</option></select></div></div>
-<p style="font-weight:600;margin:12px 0 4px">Lo que necesitas</p><label style="display:flex;gap:8px;align-items:center;font-weight:500"><input type="checkbox" data-n="c5" style="width:auto"> Más de 5 clientes</label><label style="display:flex;gap:8px;align-items:center;font-weight:500"><input type="checkbox" data-n="c50" style="width:auto"> Más de 50 clientes</label>
+<input type="hidden" id="pc-k" value="m"></div>
+<p style="font-weight:600;margin:12px 0 4px">Lo que necesitas</p><label style="display:flex;gap:8px;align-items:center;font-weight:500"><input type="checkbox" data-n="c5" style="width:auto" checked> Más de 5 clientes</label><label style="display:flex;gap:8px;align-items:center;font-weight:500"><input type="checkbox" data-n="c50" style="width:auto" checked> Más de 50 clientes</label>
 <p style="font-weight:600;margin:12px 0 4px">Extras de pago</p>
 <div class="tot" style="font-weight:600;font-size:14px;margin-top:12px"><span>Plan que te toca</span><span id="pc-p"></span></div>
 <div id="pc-l" style="font-size:13.5px;color:var(--gris);margin:4px 0"></div>
 <div class="tot" style="font-weight:600;font-size:14px"><span>Al mes, sin IVA</span><span id="pc-m"></span></div>
-<div class="tot"><span>Al año, con IVA (21 %)</span><span id="pc-a"></span></div>
-<p style="font-size:12.5px;color:var(--gris);margin:6px 0 0">Precios de la web de Billin (TS Facturas) el 13 de noviembre de 2026, sin descuentos de bienvenida. El IVA lo recuperas en tu declaración si estás en el régimen general.</p></div>
-<h3 style="margin-top:22px">Dos casos de oficio, hechos con la misma cuenta</h3><div class="pt-aviso" style="margin-top:10px"><b>Cerrajero autónomo con avisos a particulares.</b> Tiene más de 50 clientes al año y paga mes a mes. Le toca el plan <b>Ilimitado</b>: Plan Ilimitado (999 usuarios incluidos) 28,00 € = <b>28,00 € al mes</b> sin IVA (33,88 € con el 21 %), <b>406,56 € al año</b>.</div><div class="pt-aviso" style="margin-top:10px"><b>Carpintero que trabaja para 20 constructoras.</b> Son 2 en el taller y paga el año. Le toca el plan <b>Pro</b>: Plan Pro (3 usuarios incluidos) 14,00 € = <b>14,00 € al mes</b> sin IVA (16,94 € con el 21 %), <b>203,28 € al año</b>.</div></div></section>
+<div class="tot"><span>Al mes, con IVA (21 %)</span><span id="pc-a"></span></div>
+<p style="font-size:12.5px;color:var(--gris);margin:6px 0 0">Precios mes a mes de la web de Billin (TS Facturas) el 13 de noviembre de 2026, sin descuentos de bienvenida. El IVA lo recuperas en tu declaración si estás en el régimen general.</p></div>
+<h3 style="margin-top:22px">Dos casos de oficio, hechos con la misma cuenta</h3><div class="pt-aviso" style="margin-top:10px"><b>Cerrajero autónomo con avisos a particulares.</b> Tiene más de 50 clientes al año y paga mes a mes. Le toca el plan <b>Ilimitado</b>: Plan Ilimitado (999 usuarios incluidos) 28,00 € = <b>28,00 € al mes</b> sin IVA (33,88 € con el 21 %), <b>406,56 € al año</b>.</div><div class="pt-aviso" style="margin-top:10px"><b>Carpintero que trabaja para 20 constructoras.</b> Son 2 en el taller y paga mes a mes. Le toca el plan <b>Pro</b>: Plan Pro (3 usuarios incluidos) 17,00 € = <b>17,00 € al mes</b> sin IVA (20,57 € con el 21 %), <b>246,84 € al año</b>.</div></div></section>
 <section class="sec" id="preguntas"><div class="ancho ancho-s"><p class="eti">Preguntas</p><h2>Preguntas frecuentes</h2><div class="faq"><details><summary>¿Cuánto cuesta Billin en 2026?</summary><p>Billin, hoy TS Facturas, cuesta 8 € (Básico), 17 € (Pro) o 28 € (Ilimitado) al mes pagando mes a mes, sin IVA. Pagando el año: 80, 168 o 276 € al año.</p></details><details><summary>¿Billin y TS Facturas son lo mismo?</summary><p>Sí. Billin pasó a llamarse TS Facturas, de TeamSystem; la web sigue en billin.net con el nombre nuevo.</p></details><details><summary>¿Cuántos clientes admite cada plan de Billin?</summary><p>Básico, hasta 5; Pro, de 6 a 50; Ilimitado, sin límite. Es el límite que más pesa para un oficio que trabaja con particulares.</p></details><details><summary>¿Qué plan de Billin necesita un autónomo de oficio?</summary><p>Si tienes más de 50 clientes, Ilimitado (28 € al mes o 23 € pagando el año). Pro solo sirve si trabajas siempre para los mismos 50 clientes o menos.</p></details><details><summary>¿Billin tiene plan gratis?</summary><p>No aparece en su página de precios del 13 de noviembre de 2026: tiene una prueba gratis de 30 días con todas las funciones.</p></details><details><summary>¿Los precios de Billin llevan IVA?</summary><p>No: se anuncian «+ IVA». Se suma el 21 %, que recuperas en tu declaración si estás en el régimen general.</p></details></div></div></section>
 <section class="sec sec-papel"><div class="ancho"><p class="eti">Antes de decidir</p><h2>Compáralo con los demás</h2><div class="pt-cajas">
 <a class="pt-caja" href="../../precios-software-oficios-comparativa/index.html"><div class="ic">💶</div><h3>Precios de todos</h3><p>Lo que paga un equipo de 1, 3 o 5.</p></a>
@@ -1390,8 +1390,9 @@ document.querySelectorAll(".tw").forEach(box=>{const fn=()=>box.classList.toggle
       if (e.planes && !e.planes.includes(p.n)) { ok = false; break; }
       if (e.incluido && e.incluido.includes(p.n)) { lineas.push([`${e.t} (incluido)`, 0]); continue; }
       const pr = e.precio[k] != null ? e.precio[k] : e.precio.m;
-      const v = e.por === "usuario" ? pr * usuarios : pr;
-      mes += v; lineas.push([e.t + (e.por === "usuario" ? ` × ${usuarios}` : ""), v]);
+      const nu = e.minU ? Math.max(usuarios, e.minU) : usuarios; // Fixner cobra el módulo por 2 usuarios como mínimo
+      const v = e.por === "usuario" ? pr * nu : pr;
+      mes += v; lineas.push([e.t + (e.por === "usuario" ? ` × ${nu}` : ""), v]);
     }
     if (!ok) continue;
     if (!mejor || mes < mejor.mes) mejor = { plan: p.n, mes, lineas };
@@ -1401,7 +1402,7 @@ document.querySelectorAll(".tw").forEach(box=>{const fn=()=>box.classList.toggle
 const eur=(n) => { const [a, b] = Math.abs(n).toFixed(2).split("."); return (n < 0 ? "−" : "") + a.replace(/\B(?=(\d{3})+(?!\d))/g, ".") + "," + b + " €"; };
 function c(){const u=Math.max(1,parseInt(g('pc-u').value)||1),k=g('pc-k').value,nec=[...document.querySelectorAll('#pc [data-n]:checked')].map(i=>i.dataset.n),ext=[...document.querySelectorAll('#pc [data-e]:checked')].map(i=>i.dataset.e);const x=calcular(cfg,{usuarios:u,periodo:k,nec,ext});
 if(!x){g('pc-p').textContent='Ningún plan lo cubre';g('pc-l').textContent='Prueba con otra forma de pago o menos extras.';g('pc-m').textContent='—';g('pc-a').textContent='—';return}
-g('pc-p').textContent=x.plan;g('pc-l').textContent=x.lineas.map(l=>l[0]+': '+eur(l[1])).join(' · ');g('pc-m').textContent=eur(x.mes);g('pc-a').textContent=eur(x.mes*1.21*12)}
+g('pc-p').textContent=x.plan;g('pc-l').textContent=x.lineas.map(l=>l[0]+': '+eur(l[1])).join(' · ');g('pc-m').textContent=eur(x.mes);g('pc-a').textContent=eur(x.mes*1.21);const av=g('pc-av');if(av)av.textContent=eur(29+(u-1)*9)+' al mes'}
 document.querySelectorAll('#pc input,#pc select').forEach(i=>{i.addEventListener('input',c);i.addEventListener('change',c)});c()})();</script>
 <script>(function(){var d=document,R=d.documentElement;R.classList.add('js');
 var cab=d.getElementById('sx-cab'),velo=d.getElementById('sx-velo'),hoja=d.getElementById('sx-hoja'),hb=d.querySelector('.sx-hamb'),pal=d.getElementById('sx-pal');if(!cab)return;
