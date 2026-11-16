@@ -1,342 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://softwaredeoficios.es/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://softwaredeoficios.es/pruebas/fontaneros/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/plantillas/fontaneros/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/pruebas/electricistas/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/plantillas/electricistas/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/pruebas/climatizacion/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/plantillas/climatizacion/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/pruebas/cerrajeros/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/plantillas/cerrajeros/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/pruebas/placas-solares/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/plantillas/placas-solares/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/pruebas/carpinteros/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/plantillas/carpinteros/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/pruebas/pintores/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/plantillas/pintores/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/pruebas/albaniles/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/plantillas/albaniles/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/pruebas/reformas/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/plantillas/reformas/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/pruebas/jardineros/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/plantillas/jardineros/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/pruebas/piscinas/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/plantillas/piscinas/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/pruebas/limpieza/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/plantillas/limpieza/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/pruebas/mudanzas/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/plantillas/mudanzas/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/pruebas/electrodomesticos/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/plantillas/electrodomesticos/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/pruebas/cristaleria/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/plantillas/cristaleria/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/pruebas/control-plagas/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/plantillas/control-plagas/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/pruebas/puertas-automaticas/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/plantillas/puertas-automaticas/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/pruebas/comunidades/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/plantillas/comunidades/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/informe/avantium/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/informe/stel/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/informe/fixner/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/informe/trowel/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/informe/appsat/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/informe/praxedo/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/informe/tooltime/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://softwaredeoficios.es/comparativa/avantium-vs-stel/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/comparativa/avantium-vs-trowel/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/comparativa/trowel-vs-tooltime/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/comparativa/appsat-vs-stel/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/comparativa/avantium-vs-appsat/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/comparativa/avantium-vs-fixner/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/comparativa/fixner-vs-stel/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/comparativa/avantium-vs-tooltime/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/comparativa/avantium-vs-praxedo/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/comparativa/trowel-vs-stel/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/programa-presupuestos-reformas-obra/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/excel-vs-software-gestion-obras/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/control-costes-rentabilidad-obras/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/software-empresas-reformas-construccion/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/precios-software-oficios-comparativa/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/presupuestos-por-voz/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/partes-de-trabajo-con-firma/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/llevar-negocio-por-whatsapp-ia/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/apps-sin-cobertura-offline/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/fichaje-gps-trabajadores-obra/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/escanear-tickets-y-gastos/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/software-obras-por-capitulos/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/alternativas-stel-order/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/verifactu/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://softwaredeoficios.es/metodo/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url>
-    <loc>https://softwaredeoficios.es/estudio-datos-abiertos-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/app-mas-facil-usar-oficios-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/app-mas-completa-funciones-oficios-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/mapa-trabajos-rutas-diarias-oficios-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/secretaria-ia-gratis-whatsapp-oficios-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/alternativas-stel-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/alternativas-appsat-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/alternativas-tooltime-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/alternativas-fixner-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/alternativas-trowel-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/alternativas-praxedo-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/mejor-app-fontaneros-calefactores-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/mejor-app-electricistas-instaladores-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/mejor-app-climatizacion-aire-acondicionado-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/mejor-app-autonomos-oficios-1-persona-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/mejor-app-reformas-carpinteros-pintores-cerrajeros-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/presupuestos-por-voz-movil-oficios-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/partes-trabajo-digitales-firma-offline-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/facturacion-verifactu-oficios-autonomos-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/control-horario-gps-certificaciones-obra-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/presupuestos-gastos-citas-whatsapp-ia-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/calculadora-precio-real-1-persona-oficios-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/verificador-verifactu-factura-electronica-oficios-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/avantium-vs-stel-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/avantium-vs-appsat-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/avantium-vs-tooltime-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/avantium-vs-fixner-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/avantium-vs-trowel-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/avantium-vs-praxedo-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/mejor-app-carpinteros-ebanistas-ventanas-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/mejor-app-pintores-fachadas-decoracion-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/mejor-app-jardineria-paisajismo-piscinas-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/mejor-app-mantenimiento-preventivo-comunidades-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/mejor-app-cerrajeros-puertas-automaticas-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://softwaredeoficios.es/pasar-de-excel-y-papel-a-app-oficios-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-<url><loc>https://softwaredeoficios.es/pruebas/interiorismo/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/pruebas/herreros/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/programas/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/precios/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/convenios/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/plantillas/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/calculadoras/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/impuestos/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/negocio/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/ayudas/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/tramites/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/normativa/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/carnets/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/averias/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/almacenes/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/plantillas/parte-de-trabajo/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/plantillas/presupuesto/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/plantillas/factura/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/carnets/curso-prl-20-horas/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/normativa/verifactu/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/averias/saunier-duval/f28/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/calculadoras/seccion-de-cable/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/calculadoras/frigorias-aire-acondicionado/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/calculadoras/pintura-por-metro-cuadrado/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/impuestos/retencion-irpf-factura/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/negocio/financiar-obra-cliente/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/normativa/factura-electronica-obligatoria/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/normativa/reglamento-baja-tension-vivienda/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/averias/vaillant/f28/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/averias/baxi/e133/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/tramites/alta-instalacion-gas/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/ayudas/ayudas-aerotermia/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/tramites/licencia-obra-menor-madrid/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/tramites/comunicacion-previa-obra/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/tramites/licencia-obra-menor-valencia/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/tramites/licencia-obra-menor-sevilla/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/ayudas/rehabilitacion-edificios/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/ayudas/ayudas-placas-solares/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/carnets/empresa-instaladora-por-comunidad/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/oficios/electricistas/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/mejor-app/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/comparar/avantium-vs-stel-order/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/almacenes/madrid/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/almacenes/barcelona/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/almacenes/valencia/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/almacenes/sevilla/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/almacenes/bilbao/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/tramites/boletin-electrico/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/ayudas/deduccion-irpf-eficiencia-energetica/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/impuestos/modelo-303-oficios/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/precios/cuanto-cobrar-por-hora/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/plantillas/albaran/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/plantillas/orden-de-trabajo/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/plantillas/contrato-de-reforma/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/plantillas/acta-de-recepcion-de-obra/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/plantillas/hoja-de-pedido/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/plantillas/certificacion-de-obra/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/plantillas/contrato-de-obra/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/plantillas/plan-de-seguridad-y-salud/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/plantillas/libro-de-subcontratacion/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/plantillas/certificado-final-de-obra/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/impuestos/modelo-130/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/impuestos/factura-sin-iva/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/impuestos/gastos-deducibles-autonomo/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/impuestos/cuota-autonomo/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/negocio/cobrar-facturas-impagadas/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/negocio/programa-facturacion-autonomos/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/negocio/renting-furgoneta-autonomo/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/negocio/seguro-furgoneta-trabajo/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/programas/que-es-avantium/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/programas/precios-stel-order/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/programas/precios-holded/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/programas/precios-facturadirecta/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/programas/precios-billin-ts-facturas/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/programas/precios-fixner/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/programas/programa-sat-instaladores/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/programas/presto/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/programas/arquimedes-cype/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/programas/programa-presupuestos-gratis/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/programas/crm-empresas-reformas/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/programas/app-mantenimiento-gmao/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/precios/generador-de-precios-cype/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/convenios/convenio-metal/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/convenios/convenio-metal-madrid/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/convenios/convenio-metal-pontevedra/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/convenios/convenio-metal-zaragoza/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/convenios/convenio-metal-a-coruna/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/convenios/convenio-metal-las-palmas/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/convenios/convenio-metal-navarra/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/convenios/convenio-metal-sevilla/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/convenios/convenio-metal-asturias/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/convenios/convenio-metal-cadiz/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/convenios/convenio-metal-gipuzkoa/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/convenios/convenio-metal-barcelona/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/convenios/convenio-metal-valencia/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/convenios/convenio-metal-baleares/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/convenios/convenio-metal-alicante/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/convenios/convenio-metal-malaga/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/convenios/convenio-metal-toledo/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/precios/cuanto-cobra-un-electricista-por-hora/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/precios/cuanto-cobra-un-fontanero-por-hora/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/precios/cuanto-cobra-un-albanil-por-hora/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/precios/cuanto-cobra-un-pintor-por-hora/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/carnets/curso-electricista/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/carnets/instalador-electricista-habilitado/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/carnets/curso-fontaneria/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/carnets/tarjeta-profesional-construccion-tpc/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/carnets/curso-prl-60-horas/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/carnets/carnet-rite-instalador-termico/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/convenios/convenio-construccion/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/precios/precio-mano-de-obra-m2/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/impuestos/iva-10-reformas/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/precios/cuanto-cobra-un-carpintero-por-hora/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/precios/cuanto-cobra-un-cerrajero-por-hora/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/precios/cuanto-cobra-un-instalador-de-aire-acondicionado-por-hora/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/precios/cuanto-cobra-un-instalador-de-placas-solares-por-hora/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/impuestos/modulos-modelo-131/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/carnets/curso-gases-fluorados/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/carnets/curso-placas-solares/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/carnets/curso-aire-acondicionado/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/carnets/curso-pintor/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/carnets/curso-cerrajero/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/precios/precio-aerotermia/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/precios/precio-bomba-de-calor/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/precios/precio-instalar-aire-acondicionado/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/precios/precio-reformar-bano/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/precios/precio-reformar-cocina/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/precios/precio-cambiar-ventanas/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/precios/precio-puerta-blindada/</loc><lastmod>2026-11-08</lastmod></url>
-<url><loc>https://softwaredeoficios.es/precios/precio-placas-solares/</loc><lastmod>2026-11-08</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/calculadoras/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/calculadoras/pintura-por-metro-cuadrado/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/carnets/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/carnets/carnet-rite-instalador-termico/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/carnets/curso-aire-acondicionado/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/carnets/curso-cerrajero/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/carnets/curso-electricista/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/carnets/curso-gases-fluorados/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/carnets/curso-pintor/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/carnets/curso-placas-solares/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/carnets/curso-prl-60-horas/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/carnets/empresa-instaladora-por-comunidad/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/carnets/instalador-electricista-habilitado/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/carnets/tarjeta-profesional-construccion-tpc/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/convenios/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/convenios/convenio-construccion/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/convenios/convenio-metal-a-coruna/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/convenios/convenio-metal-alicante/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/convenios/convenio-metal-baleares/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/convenios/convenio-metal-cadiz/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/convenios/convenio-metal-gipuzkoa/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/convenios/convenio-metal-las-palmas/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/convenios/convenio-metal-malaga/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/convenios/convenio-metal-navarra/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/convenios/convenio-metal-pontevedra/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/convenios/convenio-metal-sevilla/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/convenios/convenio-metal-toledo/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/convenios/convenio-metal-zaragoza/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/impuestos/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/impuestos/iva-10-reformas/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/negocio/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/negocio/financiar-obra-cliente/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/normativa/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/normativa/reglamento-baja-tension-vivienda/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/plantillas/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/plantillas/acta-de-recepcion-de-obra/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/plantillas/albaran/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/plantillas/certificado-final-de-obra/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/plantillas/contrato-de-obra/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/plantillas/contrato-de-reforma/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/plantillas/hoja-de-pedido/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/plantillas/libro-de-subcontratacion/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/plantillas/orden-de-trabajo/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/plantillas/plan-de-seguridad-y-salud/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/precios/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/precios/cuanto-cobra-un-albanil-por-hora/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/precios/cuanto-cobra-un-carpintero-por-hora/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/precios/cuanto-cobra-un-cerrajero-por-hora/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/precios/cuanto-cobra-un-electricista-por-hora/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/precios/cuanto-cobra-un-fontanero-por-hora/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/precios/cuanto-cobra-un-instalador-de-aire-acondicionado-por-hora/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/precios/cuanto-cobra-un-pintor-por-hora/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/precios/generador-de-precios-cype/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/precios/precio-mano-de-obra-m2/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/programas/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/programas/app-mantenimiento-gmao/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/programas/arquimedes-cype/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/programas/crm-empresas-reformas/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/programas/precios-fixner/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/programas/precios-stel-order/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/programas/presto/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/programas/que-es-avantium/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/tramites/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/tramites/comunicacion-previa-obra/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/tramites/licencia-obra-menor-madrid/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/tramites/licencia-obra-menor-sevilla/</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://softwaredeoficios.es/tramites/licencia-obra-menor-valencia/</loc><lastmod>2026-11-16</lastmod></url>
 </urlset>
