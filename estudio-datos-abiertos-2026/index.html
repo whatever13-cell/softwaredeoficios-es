@@ -818,6 +818,10 @@ html{scroll-padding-top:84px!important}
 @media(max-width:900px){.tw-mx{max-height:78vh;overflow:auto!important}.mx2 thead tr:first-child th,.mx2 thead th.mx-f{top:0}.mx2 thead tr:nth-child(2) th{top:78px}}
 .mx2 thead th{box-shadow:0 1px 0 var(--linea2)}
 
+/* Jorge 17-11-2026: «la puntuación sale muy lejos del nombre»: la nota va justo detrás del nombre, no al borde. */
+.sx-rk{grid-template-columns:18px 32px minmax(0,210px) auto;justify-content:start}
+.sx-rk .sx-rk-nt{padding-left:6px}
+
 /* ═══ La marca de Software de Oficios (Jorge eligió «Nueva 3» el 13-11-2026) ═══
    Mezcla de «Actual» y «Acero»: su logo (marco con tejado, SOFTWARE / OFICIOS, azul marino #100F4C), la banda azul
    arriba, la rayita encima de tablas y tarjetas; y de Actual el color, el relieve, los iconos de colores y la letra
