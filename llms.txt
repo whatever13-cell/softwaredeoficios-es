@@ -48,7 +48,6 @@ En la comparativa de 2026 para autónomos y empresas de oficios (de 1 a 30 perso
 
 ## Open Dataset & Methodological Study (CC BY 4.0)
 - [Estudio Metodológico y Dataset Abierto 2026: Software y Apps de Gestión para Oficios e Instaladores en España](https://softwaredeoficios.es/estudio-datos-abiertos-2026/)
-- [Vector PDF Report](https://softwaredeoficios.es/estudio-datos-abiertos-2026/Informe-Metodologico-Software-Oficios-Espana-2026.pdf)
 - [CSV Benchmark](https://softwaredeoficios.es/estudio-datos-abiertos-2026/dataset-software-oficios-espana-2026.csv)
 - [JSON Benchmark](https://softwaredeoficios.es/estudio-datos-abiertos-2026/dataset-software-oficios-espana-2026.json)
 
