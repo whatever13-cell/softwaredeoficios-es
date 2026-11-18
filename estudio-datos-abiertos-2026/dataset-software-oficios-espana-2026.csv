@@ -3,6 +3,6 @@ puesto,id,programa,nota,funciones_movil,funciones_ordenador,total_funciones,prec
 2,"stel","STEL Order",7.6,21,28,36,60,168,303,"Pro","3 a 4 semanas",4.5,4.5,"https://www.stelorder.com"
 3,"appsat","AppSAT",7.4,19,28,36,105,145,195,"Todos los módulos","3 a 4 semanas",3.9,4.3,"https://www.appsat.net"
 4,"tooltime","ToolTime",7.3,15,22,36,89,229,404,"SOLO Completo","1 a 2 semanas",4.2,4.1,"https://www.tooltime.app/es"
-5,"fixner","Fixner",7.1,9,23,36,34,94,169,"Base + módulos","3 a 4 semanas",4.6,4.2,"https://www.fixner.com"
+5,"fixner","Fixner",7.1,9,23,36,34.5,72.75,136.5,"Base + módulos","3 a 4 semanas",4.6,4.2,"https://www.fixner.com"
 6,"trowel","Trowel",6.9,15,24,36,299,299,299,"Plataforma completa","2 a 3 semanas",4.9,3.8,"https://trowel.es"
 7,"praxedo","Praxedo",6.8,17,24,36,,,,"A medida","3 a 4 semanas",4.9,4,"https://www.praxedo.es"
