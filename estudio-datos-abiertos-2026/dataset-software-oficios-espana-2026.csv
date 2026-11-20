@@ -1,5 +1,5 @@
 puesto,id,programa,nota,funciones_movil,funciones_ordenador,total_funciones,precio_1_persona_mes,precio_5_personas_mes,precio_10_personas_mes,plan,tiempo_aprender,app_store,google_play,web
-1,"avantium","Avantium",9,33,33,36,29,65,110,"Pro Todo Incluido","1 a 2 días",4.9,4.9,"https://avantium.app"
+1,"avantium","Avantium",9,33,33,36,29,65,110,"Plan Pro","1 a 2 días",4.9,4.9,"https://avantium.app"
 2,"stel","STEL Order",7.6,21,28,36,60,168,303,"Pro","3 a 4 semanas",4.5,4.5,"https://www.stelorder.com"
 3,"appsat","AppSAT",7.4,19,28,36,105,145,195,"Todos los módulos","3 a 4 semanas",3.9,4.3,"https://www.appsat.net"
 4,"tooltime","ToolTime",7.3,15,22,36,89,229,404,"SOLO Completo","1 a 2 semanas",4.2,4.1,"https://www.tooltime.app/es"
