@@ -1186,9 +1186,10 @@ table.calor:has(thead tr>th:nth-child(3):last-child) tbody th a,table.tareas:has
 .tp-tab td{display:grid;grid-template-columns:44% 1fr;gap:12px;padding:8px 0!important;border:0!important;border-top:1px solid #F0F1F4!important;font-size:14px;background:none!important}
 .tp-tab td::before{content:attr(data-l);font-size:12.5px;line-height:1.35;color:var(--gris)}
 }
-/* Informes: cabecera ordenada en el móvil y la etiqueta como las del portal */
+/* Informes: cabecera ordenada en el móvil y ordenador (9,0 siempre arriba a la derecha junto a Avantium) */
 .inf-ficha .pill{font:600 13px var(--txt)!important;letter-spacing:0!important;text-transform:none!important;background:var(--papel)!important;color:var(--gris)!important;padding:6px 12px!important;border-radius:99px!important}
-@media(max-width:640px){.inf-a{display:flex!important;flex-wrap:wrap;align-items:center;gap:14px!important}.inf-a>img.lg{width:56px!important;height:56px!important;order:1}.inf-a>.inf-nota{order:2;margin-left:auto}.inf-a>div:not(.inf-nota){order:3;flex-basis:100%}.inf-a h1{font-size:30px!important}}
+@media(min-width:701px){.inf-a{display:grid!important;grid-template-columns:84px minmax(0,1fr) auto!important;gap:22px!important;align-items:flex-start!important}.inf-a>.inf-nota{justify-self:end!important;align-self:flex-start!important}.inf-a h1{font-size:clamp(26px,3.4vw,38px)!important;line-height:1.1!important}}
+@media(max-width:700px){.inf-a{display:flex!important;flex-wrap:wrap;align-items:center;gap:14px!important}.inf-a>img.lg{width:58px!important;height:58px!important;order:1}.inf-a>.inf-nota{order:2;margin-left:auto;grid-column:auto!important}.inf-a>div:not(.inf-nota){order:3;flex-basis:100%}.inf-a h1{font-size:26px!important;line-height:1.14!important}}
 .page>table,.page table{display:block;max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
 /* El logo, igual en todas las páginas (algunas no traían sus estilos) */
 .sx-cab .logo,.sx-pie .logo{text-decoration:none}
@@ -1261,6 +1262,42 @@ html{scroll-padding-top:84px!important}
 .sx-rk .sx-rk-nt{padding-left:6px}
 /* Jorge 17-11-2026: «Por qué Avantium / Por qué STEL» salía en blanco: la sección es oscura y el h3 heredaba el blanco. */
 .ed-pq h3{color:var(--tinta)!important}
+
+/* Carrusel de reseñas verificadas de Avantium App (21-11-2026, Jorge: las reseñas en la página como en las otras) */
+@font-face{font-family:'Material Symbols Rounded';font-style:normal;font-weight:400;font-display:block;src:url(data:font/woff2;base64,d09GMgABAAAAAAR0AA4AAAAACKwAAAQcAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHIEGBmA/U1RBVFQATBEICoUshCsLEgABNgIkAxIEIAWFNgcgDAcbIQfIBB7496w/N0kxdlZgOw5Gbme8lB+xwm/xrC8x/3M5vQAPvC2YUvev/Vt7W1FIa1tRgAltyrjnOcTQkZ7vAK4v8jD3HAQQSncmIk2d7taIbKme30YkCrLbsvgv4GJpbm3LfOLntjR6iKwAVojGAKnYi6TACZnI0TiqAAORJrEIVO4gaHvrRewo8m2xGxs2ny1UyEKi6KiIfmHLjNzcGdxG/W6kolqncVjpTunQfPJt+TZxqPTpAJ1DwPjJEEP902e53a9kzSiYNFUIfFx7x7ylQkJa5PHOFzIy8ShE7RKS2A3SW5M1idCWAQRlOJQ7g7dx5FIqnF8sQKWa+d+NtKwB2KuZm7VYX1rnrH1JT5ZPZBcKhGURRdAZqKIFcd8kst5AxVDZOkLJ+PgKRZZlObRLaBeHEuZUBjp1R5S9prSk0VZUFFEiSsM9pm6YhqFpuq7tv3jwaJJpHDx67FCSaR66tO1Cgq4fOHDkcLymHzi8/3xijWmYpq5ruuHR9l88eDTJfPGiojmsMbTJa5pRepgtapuf1b7QcEmO2BZcEwgNX1BiFldvDQgRxmp/2LagWBMIBLq/EggExJpgGN9HqFgTCN3qY7Xf7x/m//RqImzhIoZw5RF3B939dMVztc/V7Xz85LmaR3trn6stuVlTSWXXVa7Vrk672ir2ho/ePHrz3vD2ivJD56ovTPpnfu/er+xeumlo4b/PvR09+8bs1PjU2bNvvh313H+FUzbtWtr7ld7z/5l0oUtjp13tYrzaKjrtWu3i03TrR8D1m/VXbzYtbFvUNuK5Pq7efV20Xosp313tadpRVfVqUtWr47UJ6/Wx416trPq8S2X0T0P5KvKlP/V59hL7hMtjrp6/PmxIN8/gjeqK2NrgkriWXi7XhLwXKt7/+VKbYS+1T9o//Oq5Xf1Gpmb3bM6cGz/tcdbDIk/ZxyW8VLXBVeNaVwXA+i/8Y8e74v/ulVFjf3NKOz3JN69MrYgO5G+3frEuyM9kP2DfqfSpEJ2SJvm29Yv1m/zsi247V8i3ecx+DjjeykgG0AqcopXOnfYl9nAO7kWdEkJdVeJ2xhLMFItZEpGiiSXTIBSWQhHXWTZS2cu0k8dkhTgRqtGYJQhlIEsimWQhdoUTjhmh50IO7cyllWpaMKmnEQ9e5pNLB/MlrG0kVQp3L6WeGcylmjrqmU4jsreQfXop7JhL43unFbKEVmpop4V5FNDOAtre1tRJkDkGMxB+Xj8KqMfDAlrOvgEDRj5Penc7bagMpj+jGM6IToap0jBVGlQljSoJUrvA/60xzCCXXGYwZkp9Cl8xjcIptNPBEgjRpomacwczHJUZkqMdzxeHVNy4mUJ/VFQmwUAHkm9E3TnqmTcgXNgF9r+3u+z+Bzr/NWFteE7ZAQAA) format('woff2')}
+.sdo-rev-cab{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:18px;margin-bottom:22px}
+.sdo-rev-resumen{display:inline-flex;align-items:center;gap:14px;background:#fff;border:1px solid var(--linea);border-top:3px solid #100F4C;border-radius:10px;padding:12px 18px;box-shadow:var(--relieve)}
+.sdo-rev-nota{font:800 32px/1 var(--jak);letter-spacing:-.04em;color:var(--tinta)}
+.sdo-rev-der{display:flex;flex-direction:column;gap:3px}
+.g-stars-row{display:inline-flex;align-items:center;gap:1px}
+.g-star{font-family:'Material Symbols Rounded';font-variation-settings:'FILL' 1,'wght' 400,'GRAD' 0,'opsz' 20;font-size:18px;line-height:1;width:18px;height:18px;display:inline-block;overflow:hidden;color:#FFBB29;user-select:none}
+.g-star.sm{font-size:16px;width:16px;height:16px}
+.sdo-rev-controles{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.sdo-rev-flecha{width:40px;height:40px;border-radius:8px;border:1px solid var(--linea2);background:#fff;color:var(--tinta);display:grid;place-items:center;cursor:pointer;box-shadow:0 1px 2px rgba(16,15,76,.05);transition:background .15s,border-color .15s}
+.sdo-rev-flecha:hover{background:#100F4C;border-color:#100F4C;color:#fff}
+.sdo-rev-flecha svg{width:18px;height:18px}
+.sdo-rev-carril{display:flex;gap:18px;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;padding:2px 2px 8px}
+.sdo-rev-carril::-webkit-scrollbar{display:none}
+.sdo-rev-tarjeta{flex:0 0 300px;scroll-snap-align:start;background:#fff;border:1px solid var(--linea);border-top:3px solid #100F4C;border-radius:10px;box-shadow:var(--relieve);padding:22px;letter-spacing:.1px;display:flex;flex-direction:column}
+@media(min-width:900px){.sdo-rev-tarjeta{flex:0 0 calc((100% - 36px)/3)}}
+.sdo-rev-toprow{display:flex;align-items:flex-start;gap:12px}
+.sdo-rev-avatar{width:40px;height:40px;border-radius:50%;color:#fff;font:600 16px/1 var(--txt);display:flex;align-items:center;justify-content:center;flex:none}
+.sdo-rev-autor{min-width:0;flex:1}
+.sdo-rev-autor b{display:block;font:600 15px/1.25 var(--txt);color:#1f1f1f;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.sdo-rev-autor span{display:block;margin-top:3px;font:400 13px/1.2 var(--txt);color:#5e5e5e}
+.sdo-rev-glogo{width:18px;height:18px;flex:none}
+.sdo-rev-midrow{margin-top:14px;display:flex;align-items:center;gap:8px}
+.sdo-rev-fecha{font:400 13px/1 var(--txt);color:#5e5e5e}
+.sdo-rev-texto{margin:10px 0 0;font:400 15px/1.52 var(--txt);color:#1f1f1f}
+.sdo-rev-pie{margin-top:18px;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;font-size:13.5px;color:var(--gris)}
+.sdo-rev-tiendas{display:inline-flex;flex-wrap:wrap;gap:14px}
+.sdo-rev-tiendas a{color:var(--azul);font-weight:600;text-decoration:none}
+.sdo-rev-tiendas a:hover{text-decoration:underline}
+.sdo-ficha-tab{width:100%;border-collapse:collapse;font-size:15px}
+.sdo-ficha-tab th,.sdo-ficha-tab td{padding:13px 18px;border-bottom:1px solid var(--linea);text-align:left;vertical-align:top}
+.sdo-ficha-tab tr:last-child th,.sdo-ficha-tab tr:last-child td{border-bottom:0}
+.sdo-ficha-tab th{width:220px;font:650 14px var(--txt);color:var(--tinta);background:#FAFBFD}
+@media(max-width:640px){.sdo-ficha-tab tr{display:block;padding:12px 16px;border-bottom:1px solid var(--linea)}.sdo-ficha-tab th,.sdo-ficha-tab td{display:block;width:100%;padding:0;border:0;background:none}.sdo-ficha-tab th{font-size:12px;color:var(--gris);text-transform:uppercase;letter-spacing:.04em;margin-bottom:4px}}
 
 /* ═══ La marca de Software de Oficios (Jorge eligió «Nueva 3» el 13-11-2026) ═══
    Mezcla de «Actual» y «Acero»: su logo (marco con tejado, SOFTWARE / OFICIOS, azul marino #100F4C), la banda azul
